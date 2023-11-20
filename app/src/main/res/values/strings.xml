@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LoginClean</string>
+    <string name="email">Enter Email</string>
+    <string name="password">Enter Password</string>
+</resources>
